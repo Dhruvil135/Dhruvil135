@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 2nd Year Computer Engineering Student  
+- 🎓 3rd Year Computer Engineering Student  
 - 💻 Currently focused on **Java, Data Structures & Backend Development**  
 - 📈 Practicing **DSA daily to build strong problem-solving skills**  
 - 🌐 Learning **Web Development fundamentals**  
