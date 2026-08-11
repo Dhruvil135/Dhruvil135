@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Dhruvil%20Shah-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://www.codechef.com/users/epic_coral_37">
-    <img src="https://img.shields.io/badge/CodeChef-3%20Star-5B4638?style=for-the-badge&logo=codechef" alt="CodeChef"/>
+    <img src="https://img.shields.io/badge/CodeChef-3%20Star%20%E2%98%85-5B4638?style=for-the-badge&logo=codechef" alt="CodeChef"/>
   </a>
 </p>
 
@@ -103,7 +103,7 @@ Languages
 Backend & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Backend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=spring" alt="Backend Technologies"/>
 </p>
 
 Databases
@@ -210,8 +210,6 @@ An adaptive learning and exam-generation platform exploring
 
 <p>
 <code>React</code>
-<code>Node.js</code>
-<code>Express</code>
 <code>MongoDB</code>
 </p>
 
@@ -229,7 +227,7 @@ An adaptive learning and exam-generation platform exploring
 <div align="center">
 
 <a href="https://www.codechef.com/users/epic_coral_37">
-<img src="https://img.shields.io/badge/CodeChef-3%20Star-5B4638?style=for-the-badge&logo=codechef" alt="CodeChef"/>
+<img src="https://img.shields.io/badge/CodeChef-3%20Star%20%E2%98%85-5B4638?style=for-the-badge&logo=codechef" alt="CodeChef"/>
 </a>
 
 <a href="https://www.codechef.com/users/epic_coral_37">
