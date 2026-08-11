@@ -17,9 +17,7 @@
   <a href="https://www.linkedin.com/in/dhruvilshah92/">
     <img src="https://img.shields.io/badge/LinkedIn-Dhruvil%20Shah-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://www.codechef.com/users/epic_coral_37">
-    <img src="https://img.shields.io/badge/CodeChef-3%20Star%20%E2%98%85-5B4638?style=for-the-badge&logo=codechef" alt="CodeChef"/>
-  </a>
+ 
 </p>
 
 <p>
@@ -231,7 +229,7 @@ An adaptive learning and exam-generation platform exploring
 </a>
 
 <a href="https://www.codechef.com/users/epic_coral_37">
-<img src="https://img.shields.io/badge/365%20Day%20Streak-🔥-orange?style=for-the-badge" alt="365 Day Streak"/>
+  <img src="https://img.shields.io/badge/365%20Day%20Streak-🔥-orange?style=for-the-badge" alt="365 Day Streak"/>
 </a>
 
 <p>
