@@ -173,14 +173,8 @@ Java Swing, featuring movie selection, seat booking, and database integration.
 
 <td width="50%" valign="top">
 
-<h3>🗳️ EVM Technology Voting System</h3>
-
-<p>
-An academic project exploring the workflow of a
-<strong>digital voting system</strong>, with emphasis on application logic,
-data handling, and system design.
-</p>
-
+ 
+ 
 <p><strong>Tech Stack</strong></p>
 
 <p>
